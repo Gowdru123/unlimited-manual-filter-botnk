@@ -78,7 +78,7 @@ Thanks to [InfotelGroup](https://telegram.dog/InFoTelGroup) and [Erich Daniken](
 ## Installation
 
 ### Deploy to Heroku
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://www.herokucdn.com/Gowdru123/unlimited-manual-filter-botnk)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://www.heroku.com/Gowdru123/unlimited-manual-filter-botnk)
 
 ### Deploy in your vps
 ```sh
